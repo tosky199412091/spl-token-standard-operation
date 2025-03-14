@@ -145,4 +145,4 @@ describe("stake-native-coin", () => {
 });
 
 
-//git
+//gi
